@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá! 👋 Eu sou a Izane Santos
 
-<!--
-**izanesantos/izanesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Iniciando minha jornada na área de Tecnologia da Informação  
+🔍 Aprendendo lógica de programação, desenvolvimento web e algoritmos  
+🚀 Em busca de conhecimento, evolução e oportunidades na área de TI
 
-Here are some ideas to get you started:
+### 💡 Sobre mim
+- Apaixonada por tecnologia, organização e soluções inteligentes
+- Acredito que a prática constante é o caminho para o crescimento
+- Transição de carreira
+- Tenho experiência anterior como conferente e promotora de vendas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Atualmente estudando:
+- Algoritmos e Lógica de Programação (com Gustavo Guanabara)
+- Javascrip(com Gustavo Guanaba)
+- Estrutura de repetição em Portugol
+- Git e GitHub para controle de versões
+
+### 📌 Objetivo:
+Construir um portfólio com projetos que mostrem minha evolução como futura desenvolvedora
+
+---
+
+🔗 *Vamos nos conectar?*  
+[LinkedIn](http://linkedin.com/in/izane-santos-488578214 )
